@@ -1,0 +1,8 @@
+login:
+ url: "http://mail.10086.cn/"
+ name: 'txtUser'
+ password: 'txtPass'
+ loginButton: 'loginBtn'
+ loginSuccAssert: ""
+out:
+ outid: "logout"
